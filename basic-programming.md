@@ -18,3 +18,5 @@ _[I'm adding this section due to the great materials centering on applied method
 
 #### **Testing**
  * [nosetests](https://nose.readthedocs.org/en/latest/)
+ * 
+i'm gona add
